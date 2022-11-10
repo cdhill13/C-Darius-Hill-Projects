@@ -1,2 +1,2 @@
 # C-Darius-Hill-Projects
-This branch contains Gaming projects that I created individually or was a part of creating.
+This repository contains projects that I created individually or was a part of creating.
